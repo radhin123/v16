@@ -1,5 +1,5 @@
 <p align="center">
-<img src="hthttps://github.com/Ramdaniofficial/v16/media/foto/thumb.jpg" alt="RAMDANI BOTZ VERSI 16.0.0" width="100"/>
+<img src="hthttps://github.com/Ramdaniofficial/v16/media/foto/thumb.jpg" alt="RAMDANI BOTZ" width="100"/>
 
 
 </p>
