@@ -1,6 +1,6 @@
 <p align="center">
-<img src="hthttps://github.com/Ramdaniofficial/v16/media/foto/thumb.jpg" alt="RAMDANI BOTZ" width="100"/>
-
+<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
 
 </p>
 <p align="center">
